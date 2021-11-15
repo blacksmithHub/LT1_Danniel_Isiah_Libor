@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LT1_Danniel_Isiah_Libor</string>
+    <string-array name="breed">
+        <item>Beagle</item>
+        <item>Bulldog</item>
+        <item>Chihuahua</item>
+        <item>Chow Chow</item>
+        <item>French Bulldog</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriever</item>
+        <item>Labrador Retriever</item>
+        <item>Pit bull</item>
+        <item>Pomeranian</item>
+        <item>Poodle</item>
+        <item>Pug</item>
+        <item>Siberian Husky</item>
+    </string-array>
+</resources>
